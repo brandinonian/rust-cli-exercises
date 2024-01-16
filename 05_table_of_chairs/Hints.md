@@ -1,1 +1,1 @@
-- Try using the [cli-table](https://crates.io/crates/clii-talbe) crate!
+- Try using the [cli-table](https://crates.io/crates/cli-table) crate!
